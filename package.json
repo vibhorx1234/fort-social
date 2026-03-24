@@ -1,7 +1,7 @@
 {
-  "name": "bigshop-social",
+  "name": "fort-social",
   "version": "1.0.0",
-  "description": "Big Shop LG Electronics - Social Links Page",
+  "description": "Fort Restaurant Jaipur - Social Links Page",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
